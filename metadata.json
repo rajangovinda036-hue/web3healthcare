@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel Web3 Threat Radar",
+  "description": "Autonomous real-time on-chain threat detection and protocol health evaluation engine that surfaces anomalous state transitions, liquidity drains, and structural insolvency signals before funds are lost.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
